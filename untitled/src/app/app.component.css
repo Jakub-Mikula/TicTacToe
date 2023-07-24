@@ -1,0 +1,9 @@
+body{
+  width: 97vw;
+  display: flex;
+  justify-content: center;
+}
+
+app-board{
+  margin: auto;
+}
